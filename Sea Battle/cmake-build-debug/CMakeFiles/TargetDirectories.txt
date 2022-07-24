@@ -1,0 +1,3 @@
+C:/Users/Alireza/Desktop/sea/cmake-build-debug/CMakeFiles/sea.dir
+C:/Users/Alireza/Desktop/sea/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alireza/Desktop/sea/cmake-build-debug/CMakeFiles/rebuild_cache.dir
